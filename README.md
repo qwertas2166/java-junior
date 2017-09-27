@@ -1,3 +1,4 @@
+﻿Suvorikov Fedorov
 
 # Java Junior Developer Training Course.
 64 hours training + 16 hours work project = 80 hr.
@@ -60,6 +61,7 @@ Hello, world!
 - Clone your fork repo locally
 - Update README.md locally to your teammates names
 - Commit and push initial commit
+- Add your team to https://docs.google.com/spreadsheets/d/1MIkv3X36anTvXKWfXIhG6o9AZBdWg0UT3xaoBDdVnvY/edit?usp=sharing
 ```
 $ git add .
 $ git commit -a -m “…”
