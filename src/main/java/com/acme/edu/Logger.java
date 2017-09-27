@@ -3,6 +3,8 @@ package com.acme.edu;
 public class Logger {
 
 
+    //commentarij
+
     //region const
     private static final String PRIMITIVE_PREFIX = "primitive: ";
     private static final String CHAR_PREFIX = "char: ";
